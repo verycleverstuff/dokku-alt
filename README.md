@@ -21,6 +21,7 @@ Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen. I
 * Full, partial and incremental backup
 * Access-control: deploy only keys, non-admin users
 * Application migration
+* Data volumes
 
 ## Requirements
 
