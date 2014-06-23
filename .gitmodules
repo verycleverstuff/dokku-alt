@@ -1,0 +1,3 @@
+[submodule "plugins/dokku-forego"]
+	path = plugins/dokku-forego
+	url = https://github.com/iskandar/dokku-forego.git
